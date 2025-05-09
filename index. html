@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<body>
+  <fieldset>
+    <legend>معلومات الاتصال</legend>
+    <p> الاسم: احمد غريب</p>
+    <p>البريد الإلكتروني: example@example.com</p>
+    <p>رقم الهاتف: 01125068839</p>
+  </fieldset>
+</body>
+</html>
